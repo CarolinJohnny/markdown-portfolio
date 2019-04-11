@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+What I really love to do:
+* Traveling
+* Coding
+* Cuddling with my cat
