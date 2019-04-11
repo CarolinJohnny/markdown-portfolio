@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*All great things start small!*
+
+
+**HTML, CSS and JavaScript are awesome!**
+
+
+_Let's **try** it!_
